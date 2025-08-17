@@ -3,4 +3,5 @@ nltk
 numpy
 scikit-learn
 matplotlib
-seaborn
+gensim
+tqdm
